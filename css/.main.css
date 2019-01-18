@@ -1,0 +1,14 @@
+/* This is the css */
+
+
+.image-wrapper{
+	display: inline-block;
+	width: 45%;
+
+}
+
+img{
+	display: block;
+	width: 100%;
+
+}
