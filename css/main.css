@@ -1,4 +1,4 @@
-/* This is the css */
+ This is the css */
 
 /* Wrapper Containter for the badges */
 .image-wrapper{
@@ -16,7 +16,8 @@ img{
 */
 /* hover */
 
-#stroke:hover{
+/* inline svg version */
+/*#stroke:hover{
 
 	fill: red;
 }
