@@ -7,8 +7,16 @@
 
 }
 
+/*
 img{
 	display: block;
-	width: 100%;
+	width: 30%;
 
+}
+*/
+/* hover */
+
+#stroke:hover{
+
+	fill: red;
 }
