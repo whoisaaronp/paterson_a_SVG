@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 326.3 297.5" style="enable-background:new 0 0 326.3 297.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#shoppingShape_1_);}
+	.st1{fill:none;stroke:#231F20;stroke-width:20;stroke-miterlimit:10;}
+</style>
+<g id="home_1_">
+</g>
+<g id="shoppingbag">
+	<linearGradient id="shoppingShape_1_" gradientUnits="userSpaceOnUse" x1="-18.9877" y1="174.7457" x2="191.2942" y2="-45.5101">
+		<stop  offset="5.618000e-03" style="stop-color:#EC7D4C"/>
+		<stop  offset="0.8017" style="stop-color:#F6B744"/>
+		<stop  offset="1" style="stop-color:#F8C642"/>
+	</linearGradient>
+	<circle id="shoppingShape" class="st0" cx="75.6" cy="75.6" r="75.6"/>
+	<g id="shopping">
+		<polygon class="st1" points="312.6,280.1 13.7,280.1 36.4,122.6 289.9,122.6 		"/>
+		<path class="st1" d="M92.8,124.9c0-38.9,31.5-70.4,70.4-70.4s70.4,31.5,70.4,70.4"/>
+	</g>
+</g>
+</svg>

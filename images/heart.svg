@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 284.6 262.6" style="enable-background:new 0 0 284.6 262.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#heartShape_1_);}
+	.st1{fill:none;stroke:#231F20;stroke-width:19.0087;stroke-miterlimit:10;}
+	.st2{fill:#231F20;}
+</style>
+<g id="home_1_">
+</g>
+<g id="heart">
+	
+		<linearGradient id="heartShape_1_" gradientUnits="userSpaceOnUse" x1="-19.3177" y1="174.1229" x2="190.9642" y2="-46.1328" gradientTransform="matrix(1 6.924896e-03 -6.924896e-03 1 0.8513 0.1031)">
+		<stop  offset="5.618000e-03" style="stop-color:#EC7D4C"/>
+		<stop  offset="0.8017" style="stop-color:#F6B744"/>
+		<stop  offset="1" style="stop-color:#F8C642"/>
+	</linearGradient>
+	<circle id="heartShape" class="st0" cx="75.6" cy="75.6" r="75.6"/>
+	<g id="heart_1_">
+		<path class="st1" d="M235.7,73.6L235.7,73.6c-21.8-22.1-57.8-22.4-79.9-0.6l-13.3,13.2c0,0,0,0,0,0l-13.2-13.3
+			c-21.8-22.1-57.8-22.4-79.9-0.6l0,0c-22.1,21.8-22.4,57.8-0.6,79.9l25.3,25.7c0,0,66.3,66.7,67.2,67.7c0,0,0,0,0,0
+			c1.2-1,68.1-66.7,68.1-66.7l25.7-25.3C257.3,131.7,257.5,95.7,235.7,73.6z"/>
+		<circle class="st2" cx="194.7" cy="113.5" r="27.7"/>
+	</g>
+</g>
+</svg>
