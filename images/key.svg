@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 365.08 265.74"><defs><style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:20px;}</style><linearGradient id="linear-gradient" x1="-3484.01" y1="-1212.82" x2="-3619.71" y2="-1527.8" gradientTransform="translate(-1007.75 3609.64) rotate(90)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#c8e6c9"/><stop offset="0.5" stop-color="#81c784"/><stop offset="1" stop-color="#81c784"/></linearGradient></defs><title>Artboard 10</title><g id="keys"><path id="keyShape" class="cls-1" d="M365.08,0a124.43,124.43,0,0,0-124.5,124.5h124.5Z"/><g id="keyIcon"><path class="cls-2" d="M260.29,186.26v47.57a17.5,17.5,0,0,0,17.45,17.45h0a17.5,17.5,0,0,0,17.44-17.45V186.26Z"/><circle class="cls-2" cx="107.3" cy="150.07" r="94.8"/><rect class="cls-2" x="64.45" y="116.17" width="288.14" height="67.8" rx="33.9" ry="33.9"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 365.1 265.7" style="enable-background:new 0 0 365.1 265.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#keyShape_1_);}
+	.st1{fill:none;stroke:#231F20;stroke-width:20;stroke-miterlimit:10;}
+</style>
+<g id="home_1_">
+</g>
+<g id="keys">
+	
+		<linearGradient id="keyShape_1_" gradientUnits="userSpaceOnUse" x1="-3484.0051" y1="-1212.8151" x2="-3619.7102" y2="-1527.8" gradientTransform="matrix(-4.489700e-11 1 -1 -4.489700e-11 -1007.7531 3609.6387)">
+		<stop  offset="0" style="stop-color:#C8E6C9"/>
+		<stop  offset="0.5" style="stop-color:#81C784"/>
+		<stop  offset="1" style="stop-color:#81C784"/>
+	</linearGradient>
+	<path id="keyShape" class="st0" d="M365.1,0c-68.8,0-124.5,55.7-124.5,124.5h124.5V0z"/>
+	<g id="keyIcon">
+		<path class="st1" d="M260.3,186.3v47.6c0,9.6,7.8,17.4,17.4,17.4h0c9.6,0,17.4-7.8,17.4-17.4v-47.6H260.3z"/>
+		<circle class="st1" cx="107.3" cy="150.1" r="94.8"/>
+		<path class="st1" d="M318.7,184H98.3c-18.6,0-33.9-15.3-33.9-33.9v0c0-18.6,15.3-33.9,33.9-33.9h220.3c18.6,0,33.9,15.3,33.9,33.9
+			v0C352.6,168.7,337.3,184,318.7,184z"/>
+	</g>
+</g>
+</svg>

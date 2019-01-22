@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 284.6 262.57"><defs><style>.cls-1{fill:url(#Sky_15);}.cls-2{fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:19.01px;}.cls-3{fill:#231f20;}</style><linearGradient id="Sky_15" x1="-19.32" y1="174.12" x2="190.96" y2="-46.13" gradientTransform="translate(0.85 0.1) rotate(0.4)" gradientUnits="userSpaceOnUse"><stop offset="0.01" stop-color="#ec7d4c"/><stop offset="0.8" stop-color="#f6b744"/><stop offset="1" stop-color="#f8c642"/></linearGradient></defs><title>Artboard 8</title><g id="heart"><circle id="heartShape" class="cls-1" cx="75.64" cy="75.64" r="75.63"/><g id="heart-2" data-name="heart"><path class="cls-2" d="M235.68,73.58h0A56.67,56.67,0,0,0,155.77,73L142.44,86.17h0L129.29,72.84a56.66,56.66,0,0,0-79.91-.55h0a56.67,56.67,0,0,0-.56,79.91l25.3,25.65,67.21,67.65h0c1.21-1,68.15-66.72,68.15-66.72l25.65-25.29A56.68,56.68,0,0,0,235.68,73.58Z"/><circle class="cls-3" cx="194.69" cy="113.53" r="27.74"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 284.6 262.6" style="enable-background:new 0 0 284.6 262.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#heartShape_1_);}
+	.st1{fill:none;stroke:#231F20;stroke-width:19.0087;stroke-miterlimit:10;}
+	.st2{fill:#231F20;}
+</style>
+<g id="home_1_">
+</g>
+<g id="heart">
+	
+		<linearGradient id="heartShape_1_" gradientUnits="userSpaceOnUse" x1="-19.3177" y1="174.1229" x2="190.9642" y2="-46.1328" gradientTransform="matrix(1 6.924896e-03 -6.924896e-03 1 0.8513 0.1031)">
+		<stop  offset="5.618000e-03" style="stop-color:#EC7D4C"/>
+		<stop  offset="0.8017" style="stop-color:#F6B744"/>
+		<stop  offset="1" style="stop-color:#F8C642"/>
+	</linearGradient>
+	<circle id="heartShape" class="st0" cx="75.6" cy="75.6" r="75.6"/>
+	<g id="heart_1_">
+		<path class="st1" d="M235.7,73.6L235.7,73.6c-21.8-22.1-57.8-22.4-79.9-0.6l-13.3,13.2c0,0,0,0,0,0l-13.2-13.3
+			c-21.8-22.1-57.8-22.4-79.9-0.6l0,0c-22.1,21.8-22.4,57.8-0.6,79.9l25.3,25.7c0,0,66.3,66.7,67.2,67.7c0,0,0,0,0,0
+			c1.2-1,68.1-66.7,68.1-66.7l25.7-25.3C257.3,131.7,257.5,95.7,235.7,73.6z"/>
+		<circle class="st2" cx="194.7" cy="113.5" r="27.7"/>
+	</g>
+</g>
+</svg>
