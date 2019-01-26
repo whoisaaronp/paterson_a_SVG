@@ -9,7 +9,7 @@
 	var allMyicons = document.querySelectorAll("img");
 	// debugger;
 	function logIconId(){
-		console.log(this.Id);
+		console.log(this.id);
 
 	}
 
