@@ -176,6 +176,10 @@ body{
 	
 }
 
+.iconTest { color: blue; }
+
+.iconAnotherTest { color: black; }
+
 /* hover to get bigger */
 .iconOne:hover{
 	width: 140px;
